@@ -14,10 +14,10 @@
 
 The **MAXLAB DTL (DevTest Lab) - Corpnet** provisions a complete DevTest lab on a corpnet-connected ER circuit with formulas and a connection to the GitHub DTL artifact and ARM template repos. If you specify a user ID for the **RbacUser** parameter, that user will be added to the resource group's _Owners_ role.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foualabadmins%2Flab_deploy%2Fmaster%2Fmax-dtl_corpnet%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Foualabadmins%2Flab_deploy%2Fhugh%2Fmax-dtl_corpnet%2Fazuredeploy.json" target="_blank">
 <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Foualabadmins%2Flab_deploy%2Fmaster%2Fmax-dtl_corpnet%2Fazuredeploy.json" target="_blank">
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Foualabadmins%2Flab_deploy%2Fhugh%2Fmax-dtl_corpnet%2Fazuredeploy.json" target="_blank">
 <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
